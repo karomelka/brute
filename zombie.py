@@ -6,7 +6,7 @@ from discord.ext import commands
 intents = discord.Intents.default() 
 intents.message_content = True
 
-token = "MTA1OTUwMTM1OTM1Njk4OTQ5MA.GiO1Z9.pbF4DzgwQPUrxACYv8ksoD805jqgBufdel8e00"
+token = "M-T-A-1OTUwMTM1OTM1Njk4OTQ5MA.GiO1Z9.pbF4DzgwQPUrxACYv8ksoD805jqgBufdel8e00"
 prefix = ">"
 fre = 1059502827447267338 # айди роли для фри атак
 vip = 1059503060235329617 # айди роли для вип атак
