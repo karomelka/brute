@@ -6,7 +6,7 @@ from discord.ext import commands
 intents = discord.Intents.default() 
 intents.message_content = True
 
-token = "M-T-A-1OTUwMTM1OTM1Njk4OTQ5MA.GiO1Z9.pbF4DzgwQPUrxACYv8ksoD805jqgBufdel8e00"
+token = "M-T-A-1OTUwMTM1OTM1Njk4OTQ5MA.Gb6XjU.LG0iyRhwZ78GJH40pCXADlYQrN1p1GdSEV8-g-Z-A"
 prefix = ">"
 adm = 1090699985919684708 
 free = 1090660912458891324
